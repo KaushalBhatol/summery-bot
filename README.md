@@ -1,5 +1,6 @@
 # Summery Bot
 
+
 **Summery Bot** is an intelligent web-based chatbot designed to help users summarize long texts efficiently. Leveraging advanced natural language processing (NLP) models, Summery Bot not only provides concise summaries of user-provided content but also fetches related Wikipedia articles to offer additional context and information.
 
 ## Table of Contents
@@ -24,6 +25,8 @@
 - **Responsive UI:** Features a user-friendly and responsive interface with loading animations during processing.
 
 ## Demo
+
+Live Demo: [summery-bot.bhatol.com](https://summery-bot.bhatol.com/)
 
 ![Summery Bot Interface](media/demo1.png)
 ![Summery Bot Interface](media/demo2.png)
